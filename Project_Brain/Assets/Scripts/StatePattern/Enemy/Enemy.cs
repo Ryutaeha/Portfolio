@@ -37,7 +37,6 @@ public class Enemy : MonoBehaviour
     /// 커서를 잠금 상태로 설정하고, 상태 기계를 Idle 상태로 전환합니다.
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked;
         stateMachine.ChangeState(stateMachine.IdleState);
         Health.OnDie += OnDie;
     }
