@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+# Unix 스타일(LF)로 유지할 파일들
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Windows 스타일(CRLF)로 유지할 파일들
+*.bat text eol=crlf
+
+# 자동으로 끝 문자를 변환하도록 설정
+* text=auto
+

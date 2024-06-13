@@ -1,0 +1,34 @@
+using UnityEngine;
+
+public class EnemyStateMachine : StateMachine
+{
+    #region Properties
+    public Enemy Enemy { get; }
+    public Health Target { get; private set; }
+    public EnemyIdleState IdleState { get; }
+    public EnemyChasingState ChasingState { get; private set; }
+    public EnemyAttackState AttackState { get; private set; }
+
+    public Vector2 MovementInput { get; set; }
+    public float MovementSpeed { get; private set; }
+    public float RotationDamping { get; private set; }
+    public float MovementSpeedModifier { get; set; }
+    #endregion
+
+    #region Constructor
+
+    // 적 상태 머신을 초기화하고, 필요한 상태와 속성을 설정합니다.
+    public EnemyStateMachine(Enemy enemy)
+    {
+        this.Enemy = enemy;
+        Target = GameObject.FindGameObjectWithTag("Player").GetComponent<Health>();
+
+        IdleState = new EnemyIdleState(this);
+        ChasingState = new EnemyChasingState(this);
+        AttackState = new EnemyAttackState(this);
+
+        MovementSpeed = Enemy.Data.GroundData.BaseSpeed;
+        RotationDamping = Enemy.Data.GroundData.BaseRotationDamping;
+    }
+    #endregion
+}
