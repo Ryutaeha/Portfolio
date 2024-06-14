@@ -16,7 +16,7 @@
 | Handsome Guy                                                                      | 2024.01.02 ~ 2024.01.08 | UI, Resource              | [Team - Leader]   | C#, Unity                 |
 | R-rated Survivors                                                                 | 2023.11.30 ~ 2023.12.07 | Character, Json, Database | [Team - Leader]   | C#, Unity ,Json, Maria DB |
 
-## 🔎Project Brain
+## 🔎[Project Brain](https://github.com/Ryutaeha/Portfolio/tree/main/Project_Brain)
 
 <details>
 <summary>Project Brain 소개</summary>
@@ -65,7 +65,7 @@
 
 </details>
 
-## 📹Chrono Recorder
+## 📹[Chrono Recorder](https://github.com/Ryutaeha/Portfolio/tree/main/old%20projects/Chrono_Recorder)
 
 <details>
 <summary>Chrono Recorder 소개</summary>
@@ -99,7 +99,7 @@
 
 </details>
 
-## 🐱‍👤Handsome Guy
+## 🐱‍👤[Handsome Guy](https://github.com/Ryutaeha/Portfolio/tree/main/old%20projects/Handsome_Guy)
 
 <details>
 <summary>Handsome Guy 소개</summary>
@@ -125,7 +125,7 @@
 
 </details>
 
-## 👓R-rated Survivors
+## 👓[R-rated Survivors](https://github.com/Ryutaeha/Portfolio/tree/main/old%20projects/R_rated_Survivors)
 
 <details>
 <summary>R-rated Survivors 소개</summary>
