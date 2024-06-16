@@ -66,6 +66,7 @@
   4. 유한 상태 머신 패턴 (Finite State Machine Pattern, FSM) 구현
   5. 커맨드 패턴 (Command Pattern) 구현
   6. 오브젝트 풀 패턴 (Object Pool Pattern) 구현
+  7. 서비스 로케이터 패턴 (Service Locator Pattern) 구현
 
 </details>
 
