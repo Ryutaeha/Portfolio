@@ -47,6 +47,7 @@
   11. 어댑터 패턴 (Adapter Pattern)
   12. 서비스 로케이터 패턴 (Service Locator Pattern)
   13. 오브젝트 풀 패턴 (Object Pool Pattern)
+  14. 유한 상태 머신 패턴 (Finite State Machine Pattern, FSM)
 
 - **실제 프로젝트에 적용**
 
@@ -62,6 +63,9 @@
   1. 싱글톤 패턴 (Singleton Pattern) 구현
   2. 상태 패턴 (State Pattern) 구현
   3. 이벤트 버스 패턴 (Event Bus Pattern) 구현
+  4. 유한 상태 머신 패턴 (Finite State Machine Pattern, FSM) 구현
+  5. 커맨드 패턴 (Command Pattern) 구현
+  6. 오브젝트 풀 패턴 (Object Pool Pattern) 구현
 
 </details>
 
