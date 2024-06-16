@@ -7,5 +7,11 @@ namespace Define
     {
         COUNTDOWN, START, RESTART, PAUSE, STOP, CLEAR, QUIT
     }
+
+    public enum Direction
+    {
+        Left = -1,
+        Right = 1
+    }
 }
 

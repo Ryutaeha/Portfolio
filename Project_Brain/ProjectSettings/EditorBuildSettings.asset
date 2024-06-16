@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/EventBusTestScene.unity
     guid: 704ded5ae99a33b4cadcc125bfcf07e1
   - enabled: 1
-    path: Assets/Scenes/StateTestScene.unity
+    path: Assets/Scenes/FSMTestScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Scenes/SingletonTestScene.unity
