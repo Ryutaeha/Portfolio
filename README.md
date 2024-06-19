@@ -67,6 +67,8 @@
   5. 커맨드 패턴 (Command Pattern) 구현
   6. 오브젝트 풀 패턴 (Object Pool Pattern) 구현
   7. 서비스 로케이터 패턴 (Service Locator Pattern) 구현
+  8. 옵저버 패턴 (Observer Pattern) 구현
+  9. 방문자 패턴 (Visitor Pattern) 구현
 
 </details>
 
