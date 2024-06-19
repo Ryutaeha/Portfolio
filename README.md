@@ -11,7 +11,7 @@
 
 | 프로젝트 명                                                                       | 기간                    | 구현 목록                 | 역할              | 사용된 스택               |
 | --------------------------------------------------------------------------------- | ----------------------- | ------------------------- | ----------------- | ------------------------- |
-| Project Brain                                                                     | 2024.04.02 ~ ing        | Design Patterns           | [Private Project] | C#, Unity                 |
+| Project Brain                                                                     | 2024.04.02 ~ 2024.06.20        | Design Patterns           | [Private Project] | C#, Unity                 |
 | 🔌 [Chrono Recorder](https://store.steampowered.com/app/2843090/Chrono_Recorder/) | 2024.01.10 ~ 2024.03.07 | Frame Work, UI, Scene     | [Team - Member]   | C#, Unity                 |
 | Handsome Guy                                                                      | 2024.01.02 ~ 2024.01.08 | UI, Resource              | [Team - Leader]   | C#, Unity                 |
 | R-rated Survivors                                                                 | 2023.11.30 ~ 2023.12.07 | Character, Json, Database | [Team - Leader]   | C#, Unity ,Json, Maria DB |
