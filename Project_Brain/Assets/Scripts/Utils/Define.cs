@@ -13,5 +13,12 @@ namespace Define
         Left = -1,
         Right = 1
     }
+
+    public enum SaveLocation
+    {
+        Local,
+        Cloud,
+        Both
+    }
 }
 
